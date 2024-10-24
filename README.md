@@ -30,9 +30,8 @@ Unity AimLabs Replica includes three distinct mini-games with unique gameplay me
 🎮 Features
 
     Three Detailed Maps: Different environments with unique designs for each mini-game.
-    Dynamic Recoil System: Experience realistic shooting with fun recoil mechanics.
+    Cool guns : Experience shooting with cool futuristic guns.
     Interactive Main Menu: Easy navigation with an intuitive interface to choose your game mode and settings.
-    Customizable Graphics: The game supports graphic settings to adjust for optimal performance.
 
 🚀 How to Play
 
@@ -48,13 +47,10 @@ Unity AimLabs Replica includes three distinct mini-games with unique gameplay me
 
 💻 Development
 
-This game was developed in Unity and is a replica of AimLabs with unique twists in gameplay mechanics. It was built to enhance players' aiming precision and cognitive abilities through a series of mini-games.
-Features in Development
+This game was developed in Unity as part of a C# class project. It serves as a replica of AimLabs with unique twists in gameplay mechanics. The primary focus of this project is to enhance players' aiming precision and cognitive abilities through a series of mini-games.
+No Further Development Planned
 
-    Online leaderboards
-    Additional game modes
-    Advanced recoil and shooting mechanics
-    Multiplayer capabilities
+This project was created for educational purposes, and no additional features or updates are planned.
 
 📚 How to Contribute
 
